@@ -71,3 +71,10 @@ The project includes **6 CSV files**:
 - Product-level insights with dynamic filters
 
 *(Screenshots of the dashboard are included in the `images/` folder)*
+
+## 📊 Full Dataset & Dashboard
+
+Due to GitHub file size limitations, large files are stored externally.
+
+🔹 Full Dataset: [[Google Drive Link Here]  ](https://drive.google.com/file/d/1_b8t7wkPxmMffK62ep0iVM9lL8WpNrAu/view?usp=drive_link)
+🔹 Power BI Dashboard File (.pbix): [Google Drive Link Here] https://drive.google.com/file/d/1PpFs6QcN1SiP3-a8nuVaaTN8ZCYKmlkO/view?usp=drive_link
